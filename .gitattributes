@@ -1,5 +1,5 @@
 * binary
 *.md text
 LICENSE text
-.gitattribute text
+.gitattributes text
 .gitignore text
